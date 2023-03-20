@@ -26,7 +26,7 @@ Here is the screenshot of solution. Press "ctrl" and click on the path below.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://mohammadsaad10.github.io/QR-CODE-COMPONENT/)
+- Solution URL: [solution URL here](https://mohammadsaad10.github.io/QR-CODE-COMPONENT/)
 
 ## My process
 
