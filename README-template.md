@@ -33,11 +33,11 @@ Here is the screenshot of solution. Press "ctrl" and click on the path below.
 ### Built with
 
 - Semantic HTML5 markup
-  Used <main> for the container to contain QR image and the text . <img> and <div> for QR image and the text respectively. Then inside that <div> added a <h3> heading and a paragraph to differentiate the text. Positioned correctly and then aligned to center.
+  Used "main" tag for the container to contain QR image and the text . "img" and "div" tags for QR image and the text respectively. Then inside that "div" added a "h3" heading and a paragraph to differentiate the text. Positioned correctly and then aligned to center.
 
 ### What I learned
 
-   - Using semantic elements like <main>,<footer> instead of non-semantic markup like <div>,etc. provides more accessibility and organization to the page.
+   - Using semantic elements like "main" , "footer" tags instead of non-semantic markup like "div" tag,etc. provides more accessibility and organization to the page.
 
    - When "margin:auto" is not working to center the element , give the "text-align:center" property to the parent container for ex.body and then use "margin: 0 auto" in that particular element , this will successfully horizontally centers the element. Every single thing matters for a beginner 😉.
 
