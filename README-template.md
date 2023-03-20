@@ -26,8 +26,7 @@ Here is the screenshot of solution. Press "ctrl" and click on the path below.
 
 ### Links
 
-- Solution URL: [Add solution URL here](README-template.md)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://mohammadsaad10.github.io/QR-CODE-COMPONENT/)
 
 ## My process
 
@@ -48,8 +47,6 @@ Here is the screenshot of solution. Press "ctrl" and click on the path below.
 
 
 ## Author
-
-- Website - [Mohammadsaad](https://mohammadsaad10.github.io/QR-CODE-COMPONENT/)
 - Frontend Mentor - [@I'Mohammadsaad..](https://www.frontendmentor.io/profile/Mohammadsaad10)
 
 
