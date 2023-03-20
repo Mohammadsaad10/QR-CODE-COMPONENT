@@ -8,7 +8,7 @@ body{
     text-align: center;
   }
 
-  .container{
+  main{
     background-color:  hsl(0, 0%, 100%);
     position: relative;
     height: 440px;
@@ -46,12 +46,12 @@ body{
     font-size: 15px;
   }
 
-  .attribution {
+  footer {
      font-size: 15px; 
      position: relative;
      top: 300px;
   }
 
-  .attribution a {
+  footer a {
      color: hsl(228, 45%, 44%);
   }
