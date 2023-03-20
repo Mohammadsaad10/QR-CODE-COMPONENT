@@ -26,7 +26,7 @@ Here is the screenshot of solution. Press "ctrl" and click on the path below.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](README-template.md)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
